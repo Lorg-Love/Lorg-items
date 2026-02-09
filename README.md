@@ -7,4 +7,4 @@
 
 - RGYBot:https://gitee.com/ywk2022/Roblox-RGYBot
 
-- Lorg-Tool:https://gitee.com/ywk2022/lorg-items/releases
+- Lorg-Tool:https://github.com/Lorg-Love/Lorg-items/releases
