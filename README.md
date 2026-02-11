@@ -7,4 +7,6 @@
 
 - RGYBot:https://gitee.com/ywk2022/Roblox-RGYBot
 
-- Lorg-Tool:https://github.com/Lorg-Love/Lorg-items/releases
+- Lorg-Tool:https://gitee.com/ywk2022/lorg-items/releases 或 https://gitee.com/ywk2022/lorg-items/releases
+
+- BusSystem:https://gitee.com/ywk2022/Roblox-BusSystem
