@@ -3,10 +3,10 @@
 #### Introduction
 Provide download tools and summaries for Lorg Studio's open-source projects
 
-- NoticeSystem:https://gitee.com/ywk2022/Roblox-NoticeSystem
+- NoticeSystem:https://github.com/Lorg-Love/Roblox-NoticeSystem
 
-- RGYBot:https://gitee.com/ywk2022/Roblox-RGYBot
+- RGYBot:https://github.com/Lorg-Love/Roblox-RGYBot
 
-- Lorg-Tool:- Lorg-Tool:https://gitee.com/ywk2022/lorg-items/releases or https://gitee.com/ywk2022/lorg-items/releases
+- Lorg-Tool:- Lorg-Tool:https://gitee.com/ywk2022/lorg-items/releases or https://github.com/Lorg-Love/lorg-items/releases
 
-- BusSystem:https://gitee.com/ywk2022/Roblox-BusSystem
+- BusSystem:https://github.com/Lorg-Love/Roblox-BusSystem
